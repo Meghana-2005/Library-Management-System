@@ -1,18 +1,10 @@
-## Getting Started
-
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
-
-## Folder Structure
-
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+Library Management System — Java, Swing, File I/O, ArrayList, PrintWriter, BufferedReader
+ • Developed a Java-based Library Management System with a user-friendly Swing GUI, enabling efficient
+ management of book and student details.
+ • Implemented event-driven programming for interactive features such as adding, editing, searching, and deleting
+ records.
+ • Utilized JTable and DefaultTableModel for data visualization and management, with persistent storage achieved
+ through file handling using BufferedReader and FileWriter.
+ • Designed a structured GridLayout interface and integrated a ComboBox for dynamic search criteria selection.
+ • Applied ArrayList for dynamic data storage and ensured modularity through the Model-View-Controller
+ (MVC) approach.
